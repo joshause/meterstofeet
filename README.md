@@ -2,6 +2,9 @@
 
 JavaScript conversion of meters to feet.
 
+[![Build Status](https://travis-ci.org/joshause/meterstofeet.svg?branch=master)](https://travis-ci.org/joshause/meterstofeet)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 ## Usage
 
 ### Node.js
