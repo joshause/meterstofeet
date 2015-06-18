@@ -10,7 +10,7 @@ JavaScript conversion of meters to feet.
 ### Node.js
 
 ```js
-var MetersToFeet = require("./meterstofeet");
+var MetersToFeet = require("meterstofeet");
 var mtf = new MetersToFeet();
 mtf.get(1);
 // => 3.28084

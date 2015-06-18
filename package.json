@@ -1,14 +1,13 @@
 {
   "name": "meters-to-feet",
   "title": "meterstofeet.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "main": "meterstofeet.js",
   "description": "Converts meters to feet",
   "devDependencies": {
     "jasmine": "latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/joshause/meterstofeet.js.git"
+  "repository": "joshause/meterstofeet"
   },
   "keywords": [
     "meters to feet",
@@ -25,11 +24,8 @@
   "scripts": {
     "test": "jasmine tests/*.js"
   },
-  "licenses": [{
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/MIT"
-        }],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshause/meterstofeet.js/issues"
+    "url": "https://github.com/joshause/meterstofeet/issues"
   }
 }
