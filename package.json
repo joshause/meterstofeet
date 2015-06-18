@@ -1,7 +1,7 @@
 {
   "name": "meters-to-feet",
   "title": "meterstofeet.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "meterstofeet.js",
   "description": "Converts meters to feet",
   "devDependencies": {
